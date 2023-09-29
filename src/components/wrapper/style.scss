@@ -1,0 +1,12 @@
+.wrapper {
+    background-color: var(--yellow-theme-nav-background-color);
+    width: 20rem;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-radius: 1rem;
+    box-shadow: 9px 3px 19px -3px var(--yellow-theme-main-color);
+
+    h1 {
+        color: var(--yellow-theme-main-color);
+    }
+}
