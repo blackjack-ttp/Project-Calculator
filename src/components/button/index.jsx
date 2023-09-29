@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { useContext } from 'react';
 import { CalcContext } from '@/context/CalcContext';
+import './style.scss';
 
 const getStyleName = (btn) => {
   const className = {

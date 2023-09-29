@@ -1,6 +1,6 @@
 import { useContext } from 'react';
-import { CalcContext } from '../context/CalcContext';
-import { Textfit } from 'react-textfit';
+import { CalcContext } from '@/context/CalcContext';
+import { Textfit } from 'new-react-textfit';
 import './style.scss';
 
 const Screen = () => {
